@@ -24,5 +24,5 @@
   - [Offline Mode (PWA)](pwa.md)
   - [Embed Files](embed-files.md)
 
-- [Awesome docsify](awesome.md)
+- [Awesome Miss Sangtei](awesome.md)
 - [Changelog](changelog.md)
