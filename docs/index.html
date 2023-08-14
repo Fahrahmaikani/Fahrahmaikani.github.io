@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>docsify</title>
+    <title>Miss Sangtei</title>
     <link rel="icon" href="_media/favicon.ico" />
     <meta
       name="google-site-verification"
@@ -73,18 +73,18 @@
       window.$docsify = {
         alias: {
           '.*?/awesome':
-            'https://raw.githubusercontent.com/docsifyjs/awesome-docsify/master/README.md',
+            'https://raw.githubusercontent.com/Fahrahmaikani/awesome-docsify/master/README.md',
           '.*?/changelog':
-            'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG.md',
+            'https://raw.githubusercontent.com/Fahrahmaikani/docsify/master/CHANGELOG.md',
           '/.*/_navbar.md': '/_navbar.md',
           '/es/(.*)':
-            'https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1',
+            'https://raw.githubusercontent.com/Fahrahmaikani/docs-es/master/$1',
           '/de-de/(.*)':
-            'https://raw.githubusercontent.com/docsifyjs/docs-de/master/$1',
+            'https://raw.githubusercontent.com/Fahrahmaikani/docs-de/master/$1',
           '/ru-ru/(.*)':
-            'https://raw.githubusercontent.com/docsifyjs/docs-ru/master/$1',
+            'https://raw.githubusercontent.com/Fahrahmaikani/docs-ru/master/$1',
           '/zh-cn/(.*)':
-            'https://cdn.jsdelivr.net/gh/docsifyjs/docs-zh@master/$1',
+            'https://cdn.jsdelivr.net/gh/Fahrahmaikani/docs-zh@master/$1',
         },
         auto2top: true,
         coverpage: true,
@@ -99,12 +99,13 @@
           host: '//matomo.thunderwave.de',
           id: 6,
         },
-        name: 'docsify',
+        name: 'Miss Sangtei',
         nameLink: {
           '/es/': '#/es/',
           '/de-de/': '#/de-de/',
           '/ru-ru/': '#/ru-ru/',
           '/zh-cn/': '#/zh-cn/',
+          '/lus-in/': '#/lus-in/',
           '/': '#/',
         },
         search: {
@@ -113,6 +114,7 @@
             '/de-de/': 'Keine Ergebnisse!',
             '/ru-ru/': 'Никаких результатов!',
             '/zh-cn/': '没有结果!',
+            '/lus-in/': 'Chhanna awm lo!',
             '/': 'No results!',
           },
           paths: 'auto',
@@ -121,9 +123,10 @@
             '/de-de/': 'Suche',
             '/ru-ru/': 'Поиск',
             '/zh-cn/': '搜索',
+            '/lus-in': 'Zawng',
             '/': 'Search',
           },
-          pathNamespaces: ['/es', '/de-de', '/ru-ru', '/zh-cn'],
+          pathNamespaces: ['/es', '/de-de', '/ru-ru', '/zh-cn', '/lus-in'],
         },
         vueComponents: {
           'button-counter': {
@@ -191,7 +194,7 @@
                   .replace('@master', '/blob/master');
               } else {
                 url =
-                  'https://github.com/docsifyjs/docsify/blob/develop/docs/' +
+                  'https://github.com/Fahrahmaikani/docsify/blob/develop/docs/' +
                   vm.route.file;
               }
               const editHtml = '[:memo: Edit Document](' + url + ')\n';
@@ -199,7 +202,7 @@
                 editHtml +
                 html +
                 '\n\n----\n\n' +
-                '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>'
+                '<a href="https://t.me/FamhawiteInfosysReal" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by Famhawite Infosys</a>'
               );
             });
           },
