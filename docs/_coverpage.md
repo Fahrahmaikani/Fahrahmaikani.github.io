@@ -1,12 +1,12 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>4.13.0</small>
+# Miss Sangtei <small>2.1.0</small>
 
-> A magical documentation site generator.
+> Completed Documentation for Miss Sangtei.
 
 - Simple and lightweight
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/Fahrahmaikani/docsify/)
 [Getting Started](#docsify)
