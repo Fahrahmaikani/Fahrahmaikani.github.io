@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_media/icon.png)
 
 # Miss Sangtei <small>2.1.0</small>
 
