@@ -4,3 +4,4 @@
   - [:de: Deutsch](/de-de/)
   - [:es: Español](/es/)
   - [:ru: Русский](/ru-ru/)
+  - [🇮🇳: Mizo](/lus-in/)
