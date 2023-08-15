@@ -5,8 +5,8 @@
 > Completed Documentation for Miss Sangtei.
 
 - Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Super fast and no waiting time
+- Multiple Languages Supported
 
-[GitHub](https://github.com/Fahrahmaikani/docsify/)
-[Getting Started](#docsify)
+[Support](t.me/SangteiSupport)
+[View on Telegram](t.me/dSangteiBot)
